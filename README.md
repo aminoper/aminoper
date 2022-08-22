@@ -21,12 +21,10 @@
 
 --------
 ## Connect with AMINOPER  
-<div align="center">
+<div align="center" display = "flex">
   <a href="https://github.com/aminoper"><img alt='GitHub' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=2C2C2C&color=2C2C2C'/></a>
-  
-<a href="https://linkedin.com/in/aminoper-159391249" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+<a href='https://linkedin.com/in/aminoper-159391249' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/linked_in-100000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0000FF&color=0000FF'/></a>
+  <a href='https://linkedin.com/in/aminoper-159391249' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/linked_in-100000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0000FF&color=0000FF'/></a>
 </div>  
   
 
