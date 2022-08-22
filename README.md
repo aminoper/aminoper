@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://gfycat.com/yearlylonebarnowl](https://dribbble.com/shots/6220885-Dev-Guy-Animated?utm_source=Clipboard_Shot&utm_campaign=thedigitalhawk&utm_content=Dev%20Guy%20Animated&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=thedigitalhawk&utm_content=Dev%20Guy%20Animated&utm_medium=Social_Share)" align="center" style="width: 100%"/>
+<img src="https://cdn140.picsart.com/321303280218201.gif?to=crop&type=webp&r=40x40&q=50" align="center" style="width: 100%"/>
 </div>  
   
 
