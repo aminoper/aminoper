@@ -30,12 +30,12 @@
 ------
 
 ## Github Stats  
-[![aminoper's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminoper&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&title_color=fb00ff&text_color=d28fff&icon_color=e100ff&border_color=141414&bg_color=13,1f0029,12001f&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+[![aminoper's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminoper&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&title_color=fb00ff&text_color=d28fff&icon_color=e100ff&border_color=141414&bg_color=13,030029,12001f&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 --------
 
 ## languages
-<a href="https://github.com/aminoper" align="left"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminoper&langs_count=10&title_color=fb00ff&text_color=d28fff&icon_color=0891b2&bg_color=13,1f0029,12001f&theme=blueberry&hide_border=true&locale=en&custom_title=most%20%used%20%Languages" alt="Most used languages" /></a>
+<a href="https://github.com/aminoper" align="left"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminoper&langs_count=10&title_color=fb00ff&text_color=d28fff&icon_color=0891b2&bg_color=13,030029,12001f&theme=blueberry&hide_border=true&locale=en&custom_title=most%20%used%20%Languages" alt="Most used languages" /></a>
 
 ---------
 <div align="center">
