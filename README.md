@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://cdn140.picsart.com/321303280218201.gif?to=crop&type=webp&r=40x40&q=50" align="center" style="wisth: 100%"/>
-</div>  
-  
+
 
 ### <div align="center">my name is AMIN . i am a front end developer 👨‍💻</div>  
   
@@ -36,3 +33,8 @@
 ## languages
 [![aminoper's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aminoper&exclude_repo=&hide=&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+---------
+<div align="center">
+<img src="https://cdn140.picsart.com/321303280218201.gif?to=crop&type=webp&r=40x40&q=50" align="center" style="wisth: 100%"/>
+</div>  
+  
