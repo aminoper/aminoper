@@ -35,7 +35,7 @@
 --------
 
 ## languages
-[![aminoper's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aminoper&exclude_repo=&hide=&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/aminoper" align="left"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminoper&langs_count=10&title_color=fb00ff&text_color=d28fff&icon_color=0891b2&bg_color=13,1f0029,12001f&theme=blueberry&hide_border=true&locale=en&custom_title=most%20%used%20%Languages" alt="Most used languages" /></a>
 
 ---------
 <div align="center">
