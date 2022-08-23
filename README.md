@@ -30,6 +30,4 @@
 
 
 ## Github Stats  
-<a href="https://github.com/aminoper/aminoper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminoper" />
-</a>
+[![aminoper's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminoper&title_color=fb00ff&text_color=d28fff&icon_color=fff700&border_color=141414&bg_color=13,1f0029,12001f&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
