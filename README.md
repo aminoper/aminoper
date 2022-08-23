@@ -30,4 +30,6 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminoper&hide_border=true&layout=compact" align="center" /></div>  
+<a href="https://github.com/aminoper/aminoper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminoper" />
+</a>
