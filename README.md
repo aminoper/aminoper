@@ -35,7 +35,7 @@
 --------
 
 ## languages
-<a href="https://github.com/aminoper" align="left"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminoper&langs_count=10&title_color=fb00ff&text_color=d28fff&icon_color=0891b2&bg_color=13,030029,12001f&theme=blueberry&hide_border=true&locale=en&custom_title=most%20%used%20%Languages" alt="Most used languages" /></a>
+<a href="https://github.com/aminoper" align="left"><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminoper&langs_count=10&title_color=fb00ff&text_color=d28fff&icon_color=0891b2&bg_color=13,030029,12001f&theme=blueberry&hide_border=true&locale=en&custom_title=most%20%used%20%Languages" alt="Most used languages" /></a>
 
 ---------
 <div align="center">
