@@ -26,8 +26,8 @@
 <a href='https://linkedin.com/in/aminoper-159391249' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/linked_in-100000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0000FF&color=0000FF'/></a>
 </div>  
   
-
 <br/>  
 
---------
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminoper&hide_border=true&layout=compact" align="center" /></div>  
