@@ -14,7 +14,7 @@
 <img alt='bootstrap' src='https://img.shields.io/badge/bootstrap-100000?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF&labelColor=8D00A6&color=8D00A6'/>
 <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=JavaScript&logoColor=000000&labelColor=F7DF1E&color=F7DF1E'/>
 <img alt='git' src='https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=FF0000&color=FF0000'/>
-<img alt='JavaScript' src='https://img.shields.io/badge/React-100000?style=for-the-badge&logo=JavaScript&logoColor=000000&labelColor=F7DF1E&color=F7DF1E'/>
+<img alt='JavaScript' src='https://img.shields.io/badge/React-100000?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=1572B6&color=1572B6'/>
 </div>
 </br>
 
